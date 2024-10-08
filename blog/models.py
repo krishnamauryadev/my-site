@@ -1,5 +1,3 @@
-from ctypes.wintypes import POINT
-from tkinter import image_names
 from django.db import models
 from django.core.validators import MinLengthValidator
 
